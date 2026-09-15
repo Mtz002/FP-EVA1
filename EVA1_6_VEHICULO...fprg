@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_6_VEHICULO.."/>
+        <attribute name="authors" value="bisonte"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-09-11 06:22:59 p. m."/>
+        <attribute name="created" value="Ymlzb250ZTtERVNLVE9QLU84UTU1Vk47MjAyNi0wOS0xMTswNjoxNjo1OSBwLiBtLjszMzA1"/>
+        <attribute name="edited" value="Ymlzb250ZTtERVNLVE9QLU84UTU1Vk47MjAyNi0wOS0xMTswNjoyMjo1OSBwLiBtLjsxOzM0MTA="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="MARCA" type="String" array="False" size=""/>
+            <declare name="MODELO" type="String" array="False" size=""/>
+            <declare name="A&#209;O" type="Integer" array="False" size=""/>
+            <declare name="COLOR" type="String" array="False" size=""/>
+            <declare name="KILOMETRAJE" type="Real" array="False" size=""/>
+            <declare name="PRECIO" type="Real" array="False" size=""/>
+            <input variable=""/>
+            <input variable=""/>
+            <input variable=""/>
+            <input variable=""/>
+            <input variable=""/>
+            <input variable=""/>
+        </body>
+    </function>
+</flowgorithm>
